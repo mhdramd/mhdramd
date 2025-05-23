@@ -54,8 +54,6 @@
 
 ### 💬 Daily Quote
 
-> _Loading quote..._
-> _If you want to make God laugh, tell him about your plans.  — Woody Allen_
 <!-- QUOTE-HERE -->
 
 ---
