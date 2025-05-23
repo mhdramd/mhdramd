@@ -1,0 +1,23 @@
+name: Daily Quote Updater
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Get daily quote and update README
+        run: |
+          quote=$(curl -s https://zenquotes.io/api/random | jq -r '.[0].q + " — " + .[0].a')
+          sed -i "/<!-- QUOTE-HERE -->/c\\> _${quote}_\\n<!-- QUOTE-HERE -->" README.md
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update daily quote"
+          git push
