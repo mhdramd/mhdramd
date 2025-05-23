@@ -52,6 +52,13 @@
 
 ---
 
+### 💬 Daily Quote
+
+> _Loading quote..._
+<!-- QUOTE-HERE -->
+
+---
+
 ### 🔗 Connect with Me
 
 <p align="center">
