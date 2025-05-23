@@ -54,6 +54,7 @@
 
 ### 💬 Daily Quote
 
+> _For your life to be great, your faith must be bigger than your fear. — Robin Sharma_
 <!-- QUOTE-HERE -->
 
 ---
