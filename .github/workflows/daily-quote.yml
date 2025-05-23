@@ -17,7 +17,14 @@ jobs:
         run: |
           quote=$(curl -s https://zenquotes.io/api/random | jq -r '.[0].q + " — " + .[0].a')
           sed -i "/<!-- QUOTE-HERE -->/c\\> _${quote}_\\n<!-- QUOTE-HERE -->" README.md
+
+          if git diff --quiet; then
+            echo "❌ No changes to commit."
+            exit 0
+          fi
+
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
           git commit -m "chore: update daily quote"
           git push
