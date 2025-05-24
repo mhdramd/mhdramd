@@ -55,6 +55,7 @@
 ### 💬 Daily Quote
 
 > _For your life to be great, your faith must be bigger than your fear. — Robin Sharma_
+> _If you take responsibility for yourself you will develop a hunger to accomplish your dream. — Les Brown_
 <!-- QUOTE-HERE -->
 
 ---
