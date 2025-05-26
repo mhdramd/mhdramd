@@ -57,6 +57,7 @@
 > _For your life to be great, your faith must be bigger than your fear. — Robin Sharma_
 > _If you take responsibility for yourself you will develop a hunger to accomplish your dream. — Les Brown_
 > _We run to win, not just to be in the race.   — Vince Lombardi_
+> _Animals don't hate, and we're supposed to be better than them. — Elvis Presley_
 <!-- QUOTE-HERE -->
 
 ---
