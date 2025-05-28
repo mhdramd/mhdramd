@@ -59,6 +59,7 @@
 > _We run to win, not just to be in the race.   — Vince Lombardi_
 > _Animals don't hate, and we're supposed to be better than them. — Elvis Presley_
 > _Catch, then, O catch the transient hour; Improve each moment as it flies!  — St. Jerome_
+> _The single most powerful asset we all have is our mind. — Robert Kiyosaki_
 <!-- QUOTE-HERE -->
 
 ---
