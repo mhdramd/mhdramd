@@ -60,6 +60,7 @@
 > _Animals don't hate, and we're supposed to be better than them. — Elvis Presley_
 > _Catch, then, O catch the transient hour; Improve each moment as it flies!  — St. Jerome_
 > _The single most powerful asset we all have is our mind. — Robert Kiyosaki_
+> _I know of only one duty, and that is to love. — George Bernard Shaw_
 <!-- QUOTE-HERE -->
 
 ---
