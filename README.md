@@ -61,6 +61,7 @@
 > _Catch, then, O catch the transient hour; Improve each moment as it flies!  — St. Jerome_
 > _The single most powerful asset we all have is our mind. — Robert Kiyosaki_
 > _I know of only one duty, and that is to love. — George Bernard Shaw_
+> _The only thing new in the world is the history you do not know. — Harry S. Truman_
 <!-- QUOTE-HERE -->
 
 ---
