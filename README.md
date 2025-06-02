@@ -64,6 +64,7 @@
 > _The only thing new in the world is the history you do not know. — Harry S. Truman_
 > _He who hesitates is a damned fool. — Mae West_
 > _Take responsibility of your own happiness, never put it in other people's hands. — Roy T. Bennett_
+> _Your spirit is the true shield. — Morihei Ueshiba_
 <!-- QUOTE-HERE -->
 
 ---
