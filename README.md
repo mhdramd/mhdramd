@@ -65,6 +65,7 @@
 > _He who hesitates is a damned fool. — Mae West_
 > _Take responsibility of your own happiness, never put it in other people's hands. — Roy T. Bennett_
 > _Your spirit is the true shield. — Morihei Ueshiba_
+> _Correct what you can. Learn from what you can't. — Toni Morrison_
 <!-- QUOTE-HERE -->
 
 ---
