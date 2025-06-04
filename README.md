@@ -66,6 +66,7 @@
 > _Take responsibility of your own happiness, never put it in other people's hands. — Roy T. Bennett_
 > _Your spirit is the true shield. — Morihei Ueshiba_
 > _Correct what you can. Learn from what you can't. — Toni Morrison_
+> _Far and away the best prize that life has to offer is the chance to work hard at work worth doing. — Theodore Roosevelt_
 <!-- QUOTE-HERE -->
 
 ---
