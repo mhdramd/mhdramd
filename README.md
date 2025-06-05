@@ -67,6 +67,7 @@
 > _Your spirit is the true shield. — Morihei Ueshiba_
 > _Correct what you can. Learn from what you can't. — Toni Morrison_
 > _Far and away the best prize that life has to offer is the chance to work hard at work worth doing. — Theodore Roosevelt_
+> _Let each man exercise the art he knows. — Aristophanes_
 <!-- QUOTE-HERE -->
 
 ---
