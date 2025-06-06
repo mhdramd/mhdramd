@@ -68,6 +68,7 @@
 > _Correct what you can. Learn from what you can't. — Toni Morrison_
 > _Far and away the best prize that life has to offer is the chance to work hard at work worth doing. — Theodore Roosevelt_
 > _Let each man exercise the art he knows. — Aristophanes_
+> _I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear. — Nelson Mandela_
 <!-- QUOTE-HERE -->
 
 ---
