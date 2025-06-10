@@ -72,6 +72,7 @@
 > _We are willing to believe anything other than the truth. — Carlos Ruiz Zafon_
 > _Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death. — Socrates_
 > _True life is lived when tiny changes occur. — Leo Tolstoy_
+> _Some of your greatest lessons come from your darkest moments. — Roger Lee_
 <!-- QUOTE-HERE -->
 
 ---
