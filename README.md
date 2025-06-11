@@ -73,6 +73,7 @@
 > _Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death. — Socrates_
 > _True life is lived when tiny changes occur. — Leo Tolstoy_
 > _Some of your greatest lessons come from your darkest moments. — Roger Lee_
+> _Let us always meet each other with smile, for the smile is the beginning of love. — Mother Teresa_
 <!-- QUOTE-HERE -->
 
 ---
