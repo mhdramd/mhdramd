@@ -74,6 +74,7 @@
 > _True life is lived when tiny changes occur. — Leo Tolstoy_
 > _Some of your greatest lessons come from your darkest moments. — Roger Lee_
 > _Let us always meet each other with smile, for the smile is the beginning of love. — Mother Teresa_
+> _When you realize you've made a mistake, take immediate steps to correct it. — Dalai Lama_
 <!-- QUOTE-HERE -->
 
 ---
