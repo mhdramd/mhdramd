@@ -75,6 +75,7 @@
 > _Some of your greatest lessons come from your darkest moments. — Roger Lee_
 > _Let us always meet each other with smile, for the smile is the beginning of love. — Mother Teresa_
 > _When you realize you've made a mistake, take immediate steps to correct it. — Dalai Lama_
+> _Waste no more time arguing about what a good man should be. Be one. — Marcus Aurelius_
 <!-- QUOTE-HERE -->
 
 ---
