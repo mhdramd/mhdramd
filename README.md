@@ -77,6 +77,7 @@
 > _When you realize you've made a mistake, take immediate steps to correct it. — Dalai Lama_
 > _Waste no more time arguing about what a good man should be. Be one. — Marcus Aurelius_
 > _See what you're doing wrong, laugh at it, change and do better. — Spencer Johnson_
+> _Words are the clothes thoughts wear. — Samuel Beckett_
 <!-- QUOTE-HERE -->
 
 ---
