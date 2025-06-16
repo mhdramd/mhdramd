@@ -78,6 +78,7 @@
 > _Waste no more time arguing about what a good man should be. Be one. — Marcus Aurelius_
 > _See what you're doing wrong, laugh at it, change and do better. — Spencer Johnson_
 > _Words are the clothes thoughts wear. — Samuel Beckett_
+> _Everyone you meet is fighting a battle you know nothing about. Be kind. Always. — Robin Williams_
 <!-- QUOTE-HERE -->
 
 ---
