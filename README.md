@@ -79,6 +79,7 @@
 > _See what you're doing wrong, laugh at it, change and do better. — Spencer Johnson_
 > _Words are the clothes thoughts wear. — Samuel Beckett_
 > _Everyone you meet is fighting a battle you know nothing about. Be kind. Always. — Robin Williams_
+> _Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on. — Criss Jami_
 <!-- QUOTE-HERE -->
 
 ---
