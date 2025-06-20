@@ -82,6 +82,7 @@
 > _Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on. — Criss Jami_
 > _Persistence is very important. You should not give up unless you are forced to give up. — Elon Musk_
 > _We suffer more often in imagination than in reality. — Seneca_
+> _Life is what happens to you while you're busy making other plans. — John Lennon_
 <!-- QUOTE-HERE -->
 
 ---
