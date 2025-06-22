@@ -84,6 +84,7 @@
 > _We suffer more often in imagination than in reality. — Seneca_
 > _Life is what happens to you while you're busy making other plans. — John Lennon_
 > _The best mind-altering drug is the truth. — Lily Tomlin_
+> _Just living is not enough... one must have sunshine, freedom, and a little flower.  — Hans Christian Andersen_
 <!-- QUOTE-HERE -->
 
 ---
