@@ -85,6 +85,7 @@
 > _Life is what happens to you while you're busy making other plans. — John Lennon_
 > _The best mind-altering drug is the truth. — Lily Tomlin_
 > _Just living is not enough... one must have sunshine, freedom, and a little flower.  — Hans Christian Andersen_
+> _Things turn out best for the people who make the best of the way things turn out. — John Wooden_
 <!-- QUOTE-HERE -->
 
 ---
