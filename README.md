@@ -86,6 +86,7 @@
 > _The best mind-altering drug is the truth. — Lily Tomlin_
 > _Just living is not enough... one must have sunshine, freedom, and a little flower.  — Hans Christian Andersen_
 > _Things turn out best for the people who make the best of the way things turn out. — John Wooden_
+> _I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive. — Joan Rivers_
 <!-- QUOTE-HERE -->
 
 ---
