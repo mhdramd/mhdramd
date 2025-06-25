@@ -87,6 +87,7 @@
 > _Just living is not enough... one must have sunshine, freedom, and a little flower.  — Hans Christian Andersen_
 > _Things turn out best for the people who make the best of the way things turn out. — John Wooden_
 > _I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive. — Joan Rivers_
+> _Fear of death is fear of the Unknown. — Adi Da Samraj_
 <!-- QUOTE-HERE -->
 
 ---
