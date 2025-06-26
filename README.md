@@ -88,6 +88,7 @@
 > _Things turn out best for the people who make the best of the way things turn out. — John Wooden_
 > _I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive. — Joan Rivers_
 > _Fear of death is fear of the Unknown. — Adi Da Samraj_
+> _The prettiest eyes have cried the most. — Unknown_
 <!-- QUOTE-HERE -->
 
 ---
