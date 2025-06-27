@@ -89,6 +89,7 @@
 > _I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive. — Joan Rivers_
 > _Fear of death is fear of the Unknown. — Adi Da Samraj_
 > _The prettiest eyes have cried the most. — Unknown_
+> _Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections. — Bob Marley_
 <!-- QUOTE-HERE -->
 
 ---
