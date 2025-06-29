@@ -91,6 +91,7 @@
 > _The prettiest eyes have cried the most. — Unknown_
 > _Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections. — Bob Marley_
 > _There is only the one reality, neither to be realized nor attained. — Huang Po_
+> _Behind every beautiful thing, there's some kind of pain. — Bob Dylan_
 <!-- QUOTE-HERE -->
 
 ---
