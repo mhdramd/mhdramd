@@ -92,6 +92,7 @@
 > _Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections. — Bob Marley_
 > _There is only the one reality, neither to be realized nor attained. — Huang Po_
 > _Behind every beautiful thing, there's some kind of pain. — Bob Dylan_
+> _Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people. — Roy T. Bennett_
 <!-- QUOTE-HERE -->
 
 ---
