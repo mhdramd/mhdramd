@@ -94,6 +94,7 @@
 > _Behind every beautiful thing, there's some kind of pain. — Bob Dylan_
 > _Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people. — Roy T. Bennett_
 > _Stress happens when the mind resists what is. — Dan Millman_
+> _Life is like riding a bicycle. To keep your balance you must keep moving. — Albert Einstein_
 <!-- QUOTE-HERE -->
 
 ---
