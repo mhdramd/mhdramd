@@ -95,6 +95,7 @@
 > _Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people. — Roy T. Bennett_
 > _Stress happens when the mind resists what is. — Dan Millman_
 > _Life is like riding a bicycle. To keep your balance you must keep moving. — Albert Einstein_
+> _Failure means you've now learned another valuable lesson that pushes you one step closer to success. — Steve Harvey_
 <!-- QUOTE-HERE -->
 
 ---
