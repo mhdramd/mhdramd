@@ -96,6 +96,7 @@
 > _Stress happens when the mind resists what is. — Dan Millman_
 > _Life is like riding a bicycle. To keep your balance you must keep moving. — Albert Einstein_
 > _Failure means you've now learned another valuable lesson that pushes you one step closer to success. — Steve Harvey_
+> _If you pray for rain, be prepared to deal with some mud. — Mary Engelbreit_
 <!-- QUOTE-HERE -->
 
 ---
