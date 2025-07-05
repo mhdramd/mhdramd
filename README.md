@@ -97,6 +97,7 @@
 > _Life is like riding a bicycle. To keep your balance you must keep moving. — Albert Einstein_
 > _Failure means you've now learned another valuable lesson that pushes you one step closer to success. — Steve Harvey_
 > _If you pray for rain, be prepared to deal with some mud. — Mary Engelbreit_
+> _Guilt is perhaps the most painful companion of death. — Coco Chanel_
 <!-- QUOTE-HERE -->
 
 ---
