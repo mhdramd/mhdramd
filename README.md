@@ -99,6 +99,7 @@
 > _If you pray for rain, be prepared to deal with some mud. — Mary Engelbreit_
 > _Guilt is perhaps the most painful companion of death. — Coco Chanel_
 > _Life is filled with secrets. You can't learn them all at once. — Dan Brown_
+> _A man sees in the world what he carries in his heart. — Johann Wolfgang von Goethe_
 <!-- QUOTE-HERE -->
 
 ---
