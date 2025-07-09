@@ -101,6 +101,7 @@
 > _Life is filled with secrets. You can't learn them all at once. — Dan Brown_
 > _A man sees in the world what he carries in his heart. — Johann Wolfgang von Goethe_
 > _It is often safer to be in chains than to be free.  — Franz Kafka_
+> _Never give way to laziness. — Bhagavad Gita_
 <!-- QUOTE-HERE -->
 
 ---
