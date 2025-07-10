@@ -102,6 +102,7 @@
 > _A man sees in the world what he carries in his heart. — Johann Wolfgang von Goethe_
 > _It is often safer to be in chains than to be free.  — Franz Kafka_
 > _Never give way to laziness. — Bhagavad Gita_
+> _Be royal in your own fashion: act like a king to be treated like one. — Robert Greene_
 <!-- QUOTE-HERE -->
 
 ---
