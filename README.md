@@ -103,6 +103,7 @@
 > _It is often safer to be in chains than to be free.  — Franz Kafka_
 > _Never give way to laziness. — Bhagavad Gita_
 > _Be royal in your own fashion: act like a king to be treated like one. — Robert Greene_
+> _When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head. — Stephen King_
 <!-- QUOTE-HERE -->
 
 ---
