@@ -106,6 +106,7 @@
 > _When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head. — Stephen King_
 > _Sometimes letting things go is an act of far greater power than defending or hanging on. — Eckhart Tolle_
 > _While some of us act without thinking, too many of us think without acting. — Dan Millman_
+> _Success is an iceberg. — Unknown_
 <!-- QUOTE-HERE -->
 
 ---
