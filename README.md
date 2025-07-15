@@ -107,6 +107,7 @@
 > _Sometimes letting things go is an act of far greater power than defending or hanging on. — Eckhart Tolle_
 > _While some of us act without thinking, too many of us think without acting. — Dan Millman_
 > _Success is an iceberg. — Unknown_
+> _Change is hardest at the beginning, messiest in the middle and best at the end. — Robin Sharma_
 <!-- QUOTE-HERE -->
 
 ---
