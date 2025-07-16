@@ -108,6 +108,7 @@
 > _While some of us act without thinking, too many of us think without acting. — Dan Millman_
 > _Success is an iceberg. — Unknown_
 > _Change is hardest at the beginning, messiest in the middle and best at the end. — Robin Sharma_
+> _A hero is an ordinary person doing things in an extra ordinary way. — Christopher Reeve_
 <!-- QUOTE-HERE -->
 
 ---
