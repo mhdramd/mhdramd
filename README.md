@@ -111,6 +111,7 @@
 > _A hero is an ordinary person doing things in an extra ordinary way. — Christopher Reeve_
 > _When the fish is caught we pay no more attention to the trap. — Huang Po_
 > _Never whine, never complain, never try to justify yourself. — Robert Greene_
+> _Words are the clothing of our thoughts. — Jonathan Swift_
 <!-- QUOTE-HERE -->
 
 ---
