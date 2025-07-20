@@ -112,6 +112,7 @@
 > _When the fish is caught we pay no more attention to the trap. — Huang Po_
 > _Never whine, never complain, never try to justify yourself. — Robert Greene_
 > _Words are the clothing of our thoughts. — Jonathan Swift_
+> _Let us always meet each other with smile, for the smile is the beginning of love. — Mother Teresa_
 <!-- QUOTE-HERE -->
 
 ---
