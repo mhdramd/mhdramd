@@ -113,6 +113,7 @@
 > _Never whine, never complain, never try to justify yourself. — Robert Greene_
 > _Words are the clothing of our thoughts. — Jonathan Swift_
 > _Let us always meet each other with smile, for the smile is the beginning of love. — Mother Teresa_
+> _A real friend is one who walks in when the rest of the world walks out. — Unknown_
 <!-- QUOTE-HERE -->
 
 ---
