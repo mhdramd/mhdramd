@@ -116,6 +116,7 @@
 > _A real friend is one who walks in when the rest of the world walks out. — Unknown_
 > _Time is a game played beautifully by children. — Heraclitus_
 > _With self-discipline, almost anything is possible. — Theodore Roosevelt_
+> _Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.  — Henry Ford_
 <!-- QUOTE-HERE -->
 
 ---
