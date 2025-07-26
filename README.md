@@ -118,6 +118,7 @@
 > _With self-discipline, almost anything is possible. — Theodore Roosevelt_
 > _Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.  — Henry Ford_
 > _Tragedy is a tool for the living to gain wisdom, not a guide by which to live. — Robert F. Kennedy_
+> _Freedom is the open window through which pours the sunlight of the human spirit and human dignity. — Herbert Hoover_
 <!-- QUOTE-HERE -->
 
 ---
