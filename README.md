@@ -120,6 +120,7 @@
 > _Tragedy is a tool for the living to gain wisdom, not a guide by which to live. — Robert F. Kennedy_
 > _Freedom is the open window through which pours the sunlight of the human spirit and human dignity. — Herbert Hoover_
 > _If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present. — Roy T. Bennett_
+> _A man who cannot tolerate small misfortunes can never accomplish great things. — Chinese Proverb_
 <!-- QUOTE-HERE -->
 
 ---
