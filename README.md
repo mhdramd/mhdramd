@@ -122,6 +122,7 @@
 > _If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present. — Roy T. Bennett_
 > _A man who cannot tolerate small misfortunes can never accomplish great things. — Chinese Proverb_
 > _Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood. — Charles Dickens_
+> _Try all things, hold fast that which is good. — John Locke_
 <!-- QUOTE-HERE -->
 
 ---
