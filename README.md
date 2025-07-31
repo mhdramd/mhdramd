@@ -123,6 +123,7 @@
 > _A man who cannot tolerate small misfortunes can never accomplish great things. — Chinese Proverb_
 > _Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood. — Charles Dickens_
 > _Try all things, hold fast that which is good. — John Locke_
+> _Insanity is relative. It depends on who has who locked in what cage.   — Ray Bradbury_
 <!-- QUOTE-HERE -->
 
 ---
