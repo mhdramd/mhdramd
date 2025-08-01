@@ -124,6 +124,7 @@
 > _Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood. — Charles Dickens_
 > _Try all things, hold fast that which is good. — John Locke_
 > _Insanity is relative. It depends on who has who locked in what cage.   — Ray Bradbury_
+> _Believe that life is worth living and your belief will help create the fact. — William James_
 <!-- QUOTE-HERE -->
 
 ---
