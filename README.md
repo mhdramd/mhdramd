@@ -125,6 +125,7 @@
 > _Try all things, hold fast that which is good. — John Locke_
 > _Insanity is relative. It depends on who has who locked in what cage.   — Ray Bradbury_
 > _Believe that life is worth living and your belief will help create the fact. — William James_
+> _It is easier to fight for one's principles than to live up to them.  — Alfred Adler_
 <!-- QUOTE-HERE -->
 
 ---
