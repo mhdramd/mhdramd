@@ -126,6 +126,7 @@
 > _Insanity is relative. It depends on who has who locked in what cage.   — Ray Bradbury_
 > _Believe that life is worth living and your belief will help create the fact. — William James_
 > _It is easier to fight for one's principles than to live up to them.  — Alfred Adler_
+> _It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance. — Kamal Ravikant_
 <!-- QUOTE-HERE -->
 
 ---
