@@ -128,6 +128,7 @@
 > _It is easier to fight for one's principles than to live up to them.  — Alfred Adler_
 > _It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance. — Kamal Ravikant_
 > _If you do not conquer self, you will be conquered by self. — Napoleon Hill_
+> _Let not your mind run on what you lack as much as on what you have already. — Marcus Aurelius_
 <!-- QUOTE-HERE -->
 
 ---
