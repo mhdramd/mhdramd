@@ -130,6 +130,7 @@
 > _If you do not conquer self, you will be conquered by self. — Napoleon Hill_
 > _Let not your mind run on what you lack as much as on what you have already. — Marcus Aurelius_
 > _The best answer to anger is silence. — Marcus Aurelius_
+> _If you don't program yourself, life will program you. — Les Brown_
 <!-- QUOTE-HERE -->
 
 ---
