@@ -131,6 +131,7 @@
 > _Let not your mind run on what you lack as much as on what you have already. — Marcus Aurelius_
 > _The best answer to anger is silence. — Marcus Aurelius_
 > _If you don't program yourself, life will program you. — Les Brown_
+> _The smallest act of kindness is worth more than the greatest intention.   — Kahlil Gibran_
 <!-- QUOTE-HERE -->
 
 ---
