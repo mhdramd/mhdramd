@@ -133,6 +133,7 @@
 > _If you don't program yourself, life will program you. — Les Brown_
 > _The smallest act of kindness is worth more than the greatest intention.   — Kahlil Gibran_
 > _It is impossible for a man to learn what he thinks he already knows. — Epictetus_
+> _A clear conscience is the sure sign of a bad memory. — Mark Twain_
 <!-- QUOTE-HERE -->
 
 ---
