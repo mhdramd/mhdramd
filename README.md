@@ -134,6 +134,7 @@
 > _The smallest act of kindness is worth more than the greatest intention.   — Kahlil Gibran_
 > _It is impossible for a man to learn what he thinks he already knows. — Epictetus_
 > _A clear conscience is the sure sign of a bad memory. — Mark Twain_
+> _Most people spend more time and energy going around problems than in trying to solve them.  — Henry Ford_
 <!-- QUOTE-HERE -->
 
 ---
