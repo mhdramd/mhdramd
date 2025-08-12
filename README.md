@@ -135,6 +135,7 @@
 > _It is impossible for a man to learn what he thinks he already knows. — Epictetus_
 > _A clear conscience is the sure sign of a bad memory. — Mark Twain_
 > _Most people spend more time and energy going around problems than in trying to solve them.  — Henry Ford_
+> _Dream big. Start small. But most of all, start. — Simon Sinek_
 <!-- QUOTE-HERE -->
 
 ---
