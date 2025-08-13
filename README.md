@@ -136,6 +136,7 @@
 > _A clear conscience is the sure sign of a bad memory. — Mark Twain_
 > _Most people spend more time and energy going around problems than in trying to solve them.  — Henry Ford_
 > _Dream big. Start small. But most of all, start. — Simon Sinek_
+> _Everything eaten is killed. Every meal is a sacrifice. — Adi Da Samraj_
 <!-- QUOTE-HERE -->
 
 ---
