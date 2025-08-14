@@ -137,6 +137,7 @@
 > _Most people spend more time and energy going around problems than in trying to solve them.  — Henry Ford_
 > _Dream big. Start small. But most of all, start. — Simon Sinek_
 > _Everything eaten is killed. Every meal is a sacrifice. — Adi Da Samraj_
+> _Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today. — Thich Nhat Hanh_
 <!-- QUOTE-HERE -->
 
 ---
