@@ -138,6 +138,7 @@
 > _Dream big. Start small. But most of all, start. — Simon Sinek_
 > _Everything eaten is killed. Every meal is a sacrifice. — Adi Da Samraj_
 > _Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today. — Thich Nhat Hanh_
+> _You use a glass mirror to see your face; you use works of art to see your soul. — George Bernard Shaw_
 <!-- QUOTE-HERE -->
 
 ---
