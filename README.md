@@ -140,6 +140,7 @@
 > _Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today. — Thich Nhat Hanh_
 > _You use a glass mirror to see your face; you use works of art to see your soul. — George Bernard Shaw_
 > _The less you open your heart to others, the more your heart suffers. — Deepak Chopra_
+> _Decide upon your major definite purpose in life and then organize all your activities around it. — Brian Tracy_
 <!-- QUOTE-HERE -->
 
 ---
