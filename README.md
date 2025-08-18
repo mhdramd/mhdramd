@@ -141,6 +141,7 @@
 > _You use a glass mirror to see your face; you use works of art to see your soul. — George Bernard Shaw_
 > _The less you open your heart to others, the more your heart suffers. — Deepak Chopra_
 > _Decide upon your major definite purpose in life and then organize all your activities around it. — Brian Tracy_
+> _Great ones are willing to get burned time and again as they sharpen their swords in the fire. — Josh Waitzkin_
 <!-- QUOTE-HERE -->
 
 ---
