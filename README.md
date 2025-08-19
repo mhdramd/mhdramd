@@ -142,6 +142,7 @@
 > _The less you open your heart to others, the more your heart suffers. — Deepak Chopra_
 > _Decide upon your major definite purpose in life and then organize all your activities around it. — Brian Tracy_
 > _Great ones are willing to get burned time and again as they sharpen their swords in the fire. — Josh Waitzkin_
+> _Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.  — George Washington_
 <!-- QUOTE-HERE -->
 
 ---
