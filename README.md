@@ -144,6 +144,7 @@
 > _Great ones are willing to get burned time and again as they sharpen their swords in the fire. — Josh Waitzkin_
 > _Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.  — George Washington_
 > _Don't talk about what you have done or what you are going to do. — Thomas Jefferson_
+> _The key to immortality is first living a life worth remembering.  — Bruce Lee_
 <!-- QUOTE-HERE -->
 
 ---
