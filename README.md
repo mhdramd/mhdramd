@@ -145,6 +145,7 @@
 > _Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.  — George Washington_
 > _Don't talk about what you have done or what you are going to do. — Thomas Jefferson_
 > _The key to immortality is first living a life worth remembering.  — Bruce Lee_
+> _Do one thing every day that scares you. — Eleanor Roosevelt_
 <!-- QUOTE-HERE -->
 
 ---
