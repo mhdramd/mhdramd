@@ -146,6 +146,7 @@
 > _Don't talk about what you have done or what you are going to do. — Thomas Jefferson_
 > _The key to immortality is first living a life worth remembering.  — Bruce Lee_
 > _Do one thing every day that scares you. — Eleanor Roosevelt_
+> _What keeps life fascinating is the constant creativity of the soul. — Deepak Chopra_
 <!-- QUOTE-HERE -->
 
 ---
