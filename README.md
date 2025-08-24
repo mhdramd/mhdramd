@@ -147,6 +147,7 @@
 > _The key to immortality is first living a life worth remembering.  — Bruce Lee_
 > _Do one thing every day that scares you. — Eleanor Roosevelt_
 > _What keeps life fascinating is the constant creativity of the soul. — Deepak Chopra_
+> _Do all things with love. — Og Mandino_
 <!-- QUOTE-HERE -->
 
 ---
