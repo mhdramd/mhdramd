@@ -149,6 +149,7 @@
 > _What keeps life fascinating is the constant creativity of the soul. — Deepak Chopra_
 > _Do all things with love. — Og Mandino_
 > _If you do not push the boundaries, you will never know where they are. — T.S. Eliot_
+> _No grand idea was ever born in a conference, but a lot of foolish ideas have died there. — F. Scott Fitzgerald_
 <!-- QUOTE-HERE -->
 
 ---
