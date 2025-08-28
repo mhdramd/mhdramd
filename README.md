@@ -151,6 +151,7 @@
 > _If you do not push the boundaries, you will never know where they are. — T.S. Eliot_
 > _No grand idea was ever born in a conference, but a lot of foolish ideas have died there. — F. Scott Fitzgerald_
 > _Work out your own salvation. Do not depend on others. — Buddha_
+> _True friendship ought never to conceal what it thinks.  — St. Jerome_
 <!-- QUOTE-HERE -->
 
 ---
