@@ -152,6 +152,7 @@
 > _No grand idea was ever born in a conference, but a lot of foolish ideas have died there. — F. Scott Fitzgerald_
 > _Work out your own salvation. Do not depend on others. — Buddha_
 > _True friendship ought never to conceal what it thinks.  — St. Jerome_
+> _Learn the rules like a pro, so you can break them like an artist. — Pablo Picasso_
 <!-- QUOTE-HERE -->
 
 ---
