@@ -153,6 +153,7 @@
 > _Work out your own salvation. Do not depend on others. — Buddha_
 > _True friendship ought never to conceal what it thinks.  — St. Jerome_
 > _Learn the rules like a pro, so you can break them like an artist. — Pablo Picasso_
+> _There is an essence of when you are fearless, you become more creative. — Gurbaksh Chahal_
 <!-- QUOTE-HERE -->
 
 ---
