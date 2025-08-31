@@ -154,6 +154,7 @@
 > _True friendship ought never to conceal what it thinks.  — St. Jerome_
 > _Learn the rules like a pro, so you can break them like an artist. — Pablo Picasso_
 > _There is an essence of when you are fearless, you become more creative. — Gurbaksh Chahal_
+> _Know your gifts and share them. — Les Brown_
 <!-- QUOTE-HERE -->
 
 ---
