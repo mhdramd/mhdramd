@@ -156,6 +156,7 @@
 > _There is an essence of when you are fearless, you become more creative. — Gurbaksh Chahal_
 > _Know your gifts and share them. — Les Brown_
 > _No great mind has ever existed without a touch of madness. — Aristotle_
+> _It's easier to go down a hill than up it but the view is much better at the top. — Henry Ward Beecher_
 <!-- QUOTE-HERE -->
 
 ---
