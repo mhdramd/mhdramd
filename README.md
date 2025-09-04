@@ -158,6 +158,7 @@
 > _No great mind has ever existed without a touch of madness. — Aristotle_
 > _It's easier to go down a hill than up it but the view is much better at the top. — Henry Ward Beecher_
 > _Go and do the things you can't. That is how you get to do them. — Pablo Picasso_
+> _There is no value in anything until it is finished.  — Genghis Khan_
 <!-- QUOTE-HERE -->
 
 ---
