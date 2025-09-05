@@ -159,6 +159,7 @@
 > _It's easier to go down a hill than up it but the view is much better at the top. — Henry Ward Beecher_
 > _Go and do the things you can't. That is how you get to do them. — Pablo Picasso_
 > _There is no value in anything until it is finished.  — Genghis Khan_
+> _Amateurs sit and wait for inspiration, the rest of us just get up and got to work. — Stephen King_
 <!-- QUOTE-HERE -->
 
 ---
