@@ -160,6 +160,7 @@
 > _Go and do the things you can't. That is how you get to do them. — Pablo Picasso_
 > _There is no value in anything until it is finished.  — Genghis Khan_
 > _Amateurs sit and wait for inspiration, the rest of us just get up and got to work. — Stephen King_
+> _To judge a man by his weakest link or deed is like judging the power of the ocean by one wave. — Elvis Presley_
 <!-- QUOTE-HERE -->
 
 ---
