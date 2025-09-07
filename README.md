@@ -161,6 +161,7 @@
 > _There is no value in anything until it is finished.  — Genghis Khan_
 > _Amateurs sit and wait for inspiration, the rest of us just get up and got to work. — Stephen King_
 > _To judge a man by his weakest link or deed is like judging the power of the ocean by one wave. — Elvis Presley_
+> _Your home is where your thoughts find peace. — Zen Proverb_
 <!-- QUOTE-HERE -->
 
 ---
