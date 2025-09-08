@@ -162,6 +162,7 @@
 > _Amateurs sit and wait for inspiration, the rest of us just get up and got to work. — Stephen King_
 > _To judge a man by his weakest link or deed is like judging the power of the ocean by one wave. — Elvis Presley_
 > _Your home is where your thoughts find peace. — Zen Proverb_
+> _Even if you're sure you can win, be careful that you can live with what you lose. — Gary Keller_
 <!-- QUOTE-HERE -->
 
 ---
