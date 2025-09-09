@@ -163,6 +163,7 @@
 > _To judge a man by his weakest link or deed is like judging the power of the ocean by one wave. — Elvis Presley_
 > _Your home is where your thoughts find peace. — Zen Proverb_
 > _Even if you're sure you can win, be careful that you can live with what you lose. — Gary Keller_
+> _What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from. — T.S. Eliot_
 <!-- QUOTE-HERE -->
 
 ---
