@@ -165,6 +165,7 @@
 > _Even if you're sure you can win, be careful that you can live with what you lose. — Gary Keller_
 > _What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from. — T.S. Eliot_
 > _All know the way; few actually walk it.  — Bodhidharma_
+> _The road to success is always under construction.. — Lily Tomlin_
 <!-- QUOTE-HERE -->
 
 ---
