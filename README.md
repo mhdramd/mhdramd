@@ -166,6 +166,7 @@
 > _What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from. — T.S. Eliot_
 > _All know the way; few actually walk it.  — Bodhidharma_
 > _The road to success is always under construction.. — Lily Tomlin_
+> _The power to make and break habits and learning how to do that is really important. — Naval Ravikant_
 <!-- QUOTE-HERE -->
 
 ---
