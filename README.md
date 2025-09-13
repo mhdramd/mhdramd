@@ -167,6 +167,7 @@
 > _All know the way; few actually walk it.  — Bodhidharma_
 > _The road to success is always under construction.. — Lily Tomlin_
 > _The power to make and break habits and learning how to do that is really important. — Naval Ravikant_
+> _We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences  — Nikola Tesla_
 <!-- QUOTE-HERE -->
 
 ---
